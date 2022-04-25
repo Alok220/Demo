@@ -1,3 +1,5 @@
+Start of File
+
 name: CI
 'on':
   push:
@@ -10,3 +12,5 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
+        
+        End of File
