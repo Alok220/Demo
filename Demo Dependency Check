@@ -2,7 +2,7 @@
 
     <name>OWASP Dependency-Check Plugin</name>
     <version>5.1.3</version>
-    <version>dependency-check-jenkins-plugin-5.1.4</version>
+    <version>dependency-check-jenkins-plugin-5.1.5</version>
     <packaging>hpi</packaging>
     <inceptionYear>2022</inceptionYear>
     <organization>
